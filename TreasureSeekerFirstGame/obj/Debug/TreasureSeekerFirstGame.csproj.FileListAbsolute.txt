@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2017\Projects\TreasureSeekerFirstGame\TreasureSeekerFirstGame\bin\Debug\TreasureSeekerFirstGame.exe.config
+c:\users\eric\documents\visual studio 2017\Projects\TreasureSeekerFirstGame\TreasureSeekerFirstGame\bin\Debug\TreasureSeekerFirstGame.exe
+c:\users\eric\documents\visual studio 2017\Projects\TreasureSeekerFirstGame\TreasureSeekerFirstGame\bin\Debug\TreasureSeekerFirstGame.pdb
+c:\users\eric\documents\visual studio 2017\Projects\TreasureSeekerFirstGame\TreasureSeekerFirstGame\obj\Debug\TreasureSeekerFirstGame.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2017\Projects\TreasureSeekerFirstGame\TreasureSeekerFirstGame\obj\Debug\TreasureSeekerFirstGame.exe
+c:\users\eric\documents\visual studio 2017\Projects\TreasureSeekerFirstGame\TreasureSeekerFirstGame\obj\Debug\TreasureSeekerFirstGame.pdb
